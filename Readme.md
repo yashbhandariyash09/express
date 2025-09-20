@@ -5,7 +5,7 @@
 **This project has a [Code of Conduct].**
 
 ## Table of contents
-
+Author - yash bhandari
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
